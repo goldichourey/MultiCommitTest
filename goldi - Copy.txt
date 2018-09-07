@@ -1,2 +1,0 @@
-hi This Is goldi
-mani=day
